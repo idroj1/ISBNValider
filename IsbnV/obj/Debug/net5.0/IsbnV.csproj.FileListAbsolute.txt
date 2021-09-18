@@ -1,0 +1,12 @@
+/Users/jordi/Desktop/ISBNValider/IsbnV/bin/Debug/net5.0/IsbnV.deps.json
+/Users/jordi/Desktop/ISBNValider/IsbnV/bin/Debug/net5.0/IsbnV.dll
+/Users/jordi/Desktop/ISBNValider/IsbnV/bin/Debug/net5.0/ref/IsbnV.dll
+/Users/jordi/Desktop/ISBNValider/IsbnV/bin/Debug/net5.0/IsbnV.pdb
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/IsbnV.csproj.AssemblyReference.cache
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/IsbnV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/IsbnV.AssemblyInfoInputs.cache
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/IsbnV.AssemblyInfo.cs
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/IsbnV.csproj.CoreCompileInputs.cache
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/IsbnV.dll
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/ref/IsbnV.dll
+/Users/jordi/Desktop/ISBNValider/IsbnV/obj/Debug/net5.0/IsbnV.pdb
